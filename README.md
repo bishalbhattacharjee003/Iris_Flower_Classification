@@ -1,6 +1,6 @@
 # Iris_Flower_Classification
 Project Prerequisites
-To successfully complete this project, you need the following Python libraries:
+To successfully complete this project, we need the following Python libraries:
 1.	NumPy: For numerical computations and handling arrays.
 2.	Matplotlib: For data visualization through plots and graphs.
 3.	Seaborn: For creating advanced visualizations with ease.
